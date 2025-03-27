@@ -41,5 +41,6 @@ while True:
         break
     else:
         print("Invalid response...")
+    time.sleep(.5)
         
 print(answer)
